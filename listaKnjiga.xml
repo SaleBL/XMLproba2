@@ -1,0 +1,22 @@
+<?xml version=1.0" encoding="UTF-8"?>
+
+<knjige>
+	<knjiga broj="1">
+		 <naslov>Banja Luka na Krajini hvala</naslov>
+		 <isbn>86-80363-16-2</isbn>
+		 <autor>Djodje Mikic</autor>
+		 <opis>Istorija Banje Luke i okoline</opis>
+	</knjiga>
+	<knjiga broj="2">
+		 <naslov>Stara Banja Luka</naslov>
+		 <isbn>86-7062-009-X</isbn>
+		 <autor>Zlatko Puvačić</autor>
+		 <opis>Bilješke o Banjoj Luci početkom dvadesetog vijeka</opis>	
+	</knjiga>
+	<knjiga broj="3">
+		 <naslov>Banja Luka, grad i njegove funkcije</naslov>
+		 <isbn>86-85998-9</isbn>
+		 <autor>Sulejman Smlatic</autor>
+		 <opis>Geografija Banje Luke</opis>	
+	</knjiga>
+</knjige>
